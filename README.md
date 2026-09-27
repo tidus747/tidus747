@@ -32,6 +32,18 @@ Arduino Nano firmware and a Python desktop application to read, calibrate and ma
 
 ## Selected engineering projects
 
+### Conflatex
+
+A tool to export Confluence pages to LaTeX and PDF, with document metadata, traceability-oriented presets, templates and attachment handling.
+
+[View Conflatex](https://github.com/tidus747/conflatex)
+
+### FreeCAD Assembly Inspector
+
+A FreeCAD workbench for assembly inspection, metadata management, BOM generation and TechDraw automation.
+
+[View FreeCAD Assembly Inspector](https://github.com/tidus747/FreeCAD-Assembly-Inspector)
+
 ### NVIDIA Jetson TX2 Multi-Camera System
 
 Hardware, mechanical design, electronics and software for a multi-camera array based on the NVIDIA Jetson TX2.
@@ -43,18 +55,6 @@ Hardware, mechanical design, electronics and software for a multi-camera array b
 An open controller project for the Scorbot ER-4U robotic arm, focused on low-level access to motors, sensors and motion control.
 
 [View OpenScorbot](https://github.com/tidus747/openScorbot)
-
-### My360Export
-
-An engineering utility for exporting Autodesk Fusion 360 projects.
-
-[View My360Export](https://github.com/tidus747/my360export)
-
-### KiCad Projects
-
-Electronics projects and tutorial material developed with KiCad.
-
-[View KiCad projects](https://github.com/tidus747/Proyectos_KiCAD)
 
 ## Toolbox
 
