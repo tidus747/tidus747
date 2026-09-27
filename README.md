@@ -32,11 +32,11 @@ Arduino Nano firmware and a Python desktop application to read, calibrate and ma
 
 ## Selected engineering projects
 
-### Conflatex
+### My360Export
 
-A tool to export Confluence pages to LaTeX and PDF, with document metadata, traceability-oriented presets, templates and attachment handling.
+An engineering utility for exporting Autodesk Fusion 360 projects.
 
-[View Conflatex](https://github.com/tidus747/conflatex)
+[View My360Export](https://github.com/tidus747/my360export)
 
 ### FreeCAD Assembly Inspector
 
