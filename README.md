@@ -1,16 +1,72 @@
-## Hi there 👋
+# Ivan Rodriguez
 
-<!--
-**tidus747/tidus747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering Manager | Systems Architect | Maker
 
-Here are some ideas to get you started:
+I work at the intersection of systems engineering, architecture, software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub is a place for practical engineering projects: tools, prototypes, experiments and open-source work around software, electronics, robotics, automation and maker projects.
+
+## What I work on
+
+- Systems engineering and system architecture
+- Technical leadership and engineering management
+- Engineering tools and desktop applications
+- Embedded systems and electronics
+- Robotics and computer vision
+- Automation and technical tooling
+- Maker and open-source projects
+
+## Currently building
+
+### Planacity
+
+A desktop planning tool for engineering teams, focused on capacity planning, technical roadmaps and medium-term execution.
+
+[View Planacity](https://github.com/tidus747/planacity)
+
+### Serial Joystick Keymapper
+
+Arduino Nano firmware and a Python desktop application to read, calibrate and map a custom joystick to keyboard and mouse inputs.
+
+[View Serial Joystick Keymapper](https://github.com/tidus747/serial-joystick-keymapper)
+
+## Selected engineering projects
+
+### NVIDIA Jetson TX2 Multi-Camera System
+
+Hardware, mechanical design, electronics and software for a multi-camera array based on the NVIDIA Jetson TX2.
+
+[View project](https://github.com/tidus747/Adap_multicamara_NJTX2)
+
+### OpenScorbot
+
+An open controller project for the Scorbot ER-4U robotic arm, focused on low-level access to motors, sensors and motion control.
+
+[View OpenScorbot](https://github.com/tidus747/openScorbot)
+
+### My360Export
+
+An engineering utility for exporting Autodesk Fusion 360 projects.
+
+[View My360Export](https://github.com/tidus747/my360export)
+
+### KiCad Projects
+
+Electronics projects and tutorial material developed with KiCad.
+
+[View KiCad projects](https://github.com/tidus747/Proyectos_KiCAD)
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+
+## About this GitHub
+
+This account has been around for a while, so you will also find older experiments, tutorials and projects involving Python, Raspberry Pi, Arduino, VHDL, robotics, computer vision and game development.
+
+Some are active projects. Others are part of the path that got me here.
