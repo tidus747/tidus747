@@ -1,4 +1,4 @@
-# Ivan Rodriguez
+# Iván Rodríguez-Méndez
 
 Systems Engineering Manager | Systems Architect | Maker
 
@@ -32,11 +32,11 @@ Arduino Nano firmware and a Python desktop application to read, calibrate and ma
 
 ## Selected engineering projects
 
-### My360Export
+### Conflatex
 
-An engineering utility for exporting Autodesk Fusion 360 projects.
+A tool to export Confluence pages to LaTeX and PDF, with document metadata, traceability-oriented presets, templates and attachment handling.
 
-[View My360Export](https://github.com/tidus747/my360export)
+[View Conflatex](https://github.com/tidus747/conflatex)
 
 ### FreeCAD Assembly Inspector
 
