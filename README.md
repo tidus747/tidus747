@@ -2,71 +2,70 @@
 
 Systems Engineering Manager | Systems Architect | Maker
 
-I work at the intersection of systems engineering, architecture, software and hardware.
+I build open-source tools for engineering teams and technical workflows.
 
-My GitHub is a place for practical engineering projects: tools, prototypes, experiments and open-source work around software, electronics, robotics, automation and maker projects.
+My work sits at the intersection of systems engineering, software architecture, hardware and automation, with a strong preference for practical tools that solve concrete engineering problems.
 
-## What I work on
-
-- Systems engineering and system architecture
-- Technical leadership and engineering management
-- Engineering tools and desktop applications
-- Embedded systems and electronics
-- Robotics and computer vision
-- Automation and technical tooling
-- Maker and open-source projects
-
-## Currently building
+## Current open-source projects
 
 ### Planacity
 
-A desktop planning tool for engineering teams, focused on capacity planning, technical roadmaps and medium-term execution.
+Open-source program planning for engineering teams, combining work structure, dependencies, Jira CSV roundtrip, visual planning, capacity and calendars in a local-first desktop application.
 
 [View Planacity](https://github.com/tidus747/planacity)
 
-### Serial Joystick Keymapper
+### SprintDeck
 
-Arduino Nano firmware and a Python desktop application to read, calibrate and map a custom joystick to keyboard and mouse inputs.
+A local visual control room for sprint planning meetings, with a facilitator dashboard, synchronized OBS overlays, timers, planning context and downloadable session recaps.
 
-[View Serial Joystick Keymapper](https://github.com/tidus747/serial-joystick-keymapper)
-
-## Selected engineering projects
-
-### Conflatex
-
-A tool to export Confluence pages to LaTeX and PDF, with document metadata, traceability-oriented presets, templates and attachment handling.
-
-[View Conflatex](https://github.com/tidus747/conflatex)
+[View SprintDeck](https://github.com/tidus747/sprintdeck)
 
 ### FreeCAD Assembly Inspector
 
-A FreeCAD workbench for assembly inspection, metadata management, BOM generation and TechDraw automation.
+A modular FreeCAD workbench for assembly inspection, part metadata, BOM generation and TechDraw automation.
 
 [View FreeCAD Assembly Inspector](https://github.com/tidus747/FreeCAD-Assembly-Inspector)
 
+### Linux Recovery Toolkit
+
+A conservative Linux recovery and rebuild toolkit focused on audit-first workflows, backup verification, inventory and reinstall preflight checks.
+
+[View Linux Recovery Toolkit](https://github.com/tidus747/linux-recovery-toolkit)
+
+## Selected engineering work
+
 ### NVIDIA Jetson TX2 Multi-Camera System
 
-Hardware, mechanical design, electronics and software for a multi-camera array based on the NVIDIA Jetson TX2.
+My Master's Degree Final Project in Industrial Engineering: a multidisciplinary camera-array system covering mechanical design, custom electronics, embedded Linux integration, calibration and computer vision.
 
-[View project](https://github.com/tidus747/Adap_multicamara_NJTX2)
+[View the project](https://github.com/tidus747/Adap_multicamara_NJTX2)
+
+### Serial Joystick Keymapper
+
+Arduino Nano firmware and a Windows desktop application for reading, calibrating and mapping a custom serial joystick to keyboard and mouse input.
+
+[View Serial Joystick Keymapper](https://github.com/tidus747/serial-joystick-keymapper)
 
 ### OpenScorbot
 
-An open controller project for the Scorbot ER-4U robotic arm, focused on low-level access to motors, sensors and motion control.
+A low-level robotics project for the Scorbot ER-4U, covering USB communication, encoder feedback, homing, joint motion and Cartesian control.
 
 [View OpenScorbot](https://github.com/tidus747/openScorbot)
 
-## Toolbox
+## How I approach engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+- Start from the problem, constraints and interfaces.
+- Make architecture and engineering decisions explicit.
+- Build small, testable tools around real workflows.
+- Validate assumptions against users, systems or physical hardware.
+- Prefer maintainable solutions over unnecessary complexity.
+
+## Areas I work across
+
+Systems engineering, system architecture, engineering management, Python, desktop tooling, Linux, embedded systems, electronics, robotics, CAD automation and technical documentation.
 
 ## About this GitHub
 
-This account has been around for a while, so you will also find older experiments, tutorials and projects involving Python, Raspberry Pi, Arduino, VHDL, robotics, computer vision and game development.
+This account also contains older experiments, tutorials and maker projects involving Raspberry Pi, Arduino, VHDL, computer vision, SDR and game development.
 
-Some are active projects. Others are part of the path that got me here.
+Some are active. Some are historical. Together they show the path from maker projects and low-level engineering to the systems and tooling work I focus on today.
